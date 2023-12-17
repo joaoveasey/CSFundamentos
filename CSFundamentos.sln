@@ -33,15 +33,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAritmeticos1", "O
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InferenciaDeTipos1", "InferenciaDeTipos1\InferenciaDeTipos1.csproj", "{F3E77E93-8A89-48FC-9217-F997086023C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAtribuicao1", "OperadoresAtribuicao1\OperadoresAtribuicao1.csproj", "{D366DA14-46F3-4258-BF50-C03A41B72824}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAtribuicao1", "OperadoresAtribuicao1\OperadoresAtribuicao1.csproj", "{D366DA14-46F3-4258-BF50-C03A41B72824}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes1", "Constantes1\Constantes1.csproj", "{B0D97A37-DC58-4A67-BBE7-3CA117C84A78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constantes1", "Constantes1\Constantes1.csproj", "{B0D97A37-DC58-4A67-BBE7-3CA117C84A78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresIncremento1", "OperadoresIncremento1\OperadoresIncremento1.csproj", "{73F4D733-8C3E-4949-A9DB-194DBAD3ECDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresIncremento1", "OperadoresIncremento1\OperadoresIncremento1.csproj", "{73F4D733-8C3E-4949-A9DB-194DBAD3ECDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresRelacionais1", "OperadoresRelacionais1\OperadoresRelacionais1.csproj", "{EABCD4E4-BC12-4363-BDB1-5D609B989739}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresRelacionais1", "OperadoresRelacionais1\OperadoresRelacionais1.csproj", "{EABCD4E4-BC12-4363-BDB1-5D609B989739}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos1", "OperadoresLogicos1\OperadoresLogicos1.csproj", "{BF4482BA-8E1A-48A2-BC48-956C48B305C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresLogicos1", "OperadoresLogicos1\OperadoresLogicos1.csproj", "{BF4482BA-8E1A-48A2-BC48-956C48B305C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrecedenciaOperadores1", "PrecedenciaOperadores1\PrecedenciaOperadores1.csproj", "{90CE8DC8-3BFA-4858-A342-C243471DD2D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposReferenciaAnulaveis1", "TiposReferenciaAnulaveis1\TiposReferenciaAnulaveis1.csproj", "{1F083816-07AA-4435-B299-A7D2C1F7E81F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorUniarioTernario1", "OperadorUniarioTernario1\OperadorUniarioTernario1.csproj", "{39A9B503-0401-4599-9717-74236C362277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosFase2", "ExerciciosFase2\ExerciciosFase2.csproj", "{BC28A5E2-35E7-4590-ACD0-F281E664E2C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +137,22 @@ Global
 		{BF4482BA-8E1A-48A2-BC48-956C48B305C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF4482BA-8E1A-48A2-BC48-956C48B305C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF4482BA-8E1A-48A2-BC48-956C48B305C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90CE8DC8-3BFA-4858-A342-C243471DD2D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90CE8DC8-3BFA-4858-A342-C243471DD2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90CE8DC8-3BFA-4858-A342-C243471DD2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90CE8DC8-3BFA-4858-A342-C243471DD2D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F083816-07AA-4435-B299-A7D2C1F7E81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F083816-07AA-4435-B299-A7D2C1F7E81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F083816-07AA-4435-B299-A7D2C1F7E81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F083816-07AA-4435-B299-A7D2C1F7E81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A9B503-0401-4599-9717-74236C362277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A9B503-0401-4599-9717-74236C362277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A9B503-0401-4599-9717-74236C362277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A9B503-0401-4599-9717-74236C362277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC28A5E2-35E7-4590-ACD0-F281E664E2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC28A5E2-35E7-4590-ACD0-F281E664E2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC28A5E2-35E7-4590-ACD0-F281E664E2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC28A5E2-35E7-4590-ACD0-F281E664E2C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
